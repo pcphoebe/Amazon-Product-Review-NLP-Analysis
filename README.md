@@ -1,4 +1,4 @@
-# Amazon Digial Music Product Reviews NLP Analysis
+# Amazon Digital Music Product Reviews NLP Analysis
 
 **Description**
 
